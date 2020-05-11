@@ -5,4 +5,6 @@ public class User {
     private String address;
     private String name;
     private String education;
+
+    private String zhuXian;
 }
